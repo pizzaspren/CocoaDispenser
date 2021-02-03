@@ -1,0 +1,1 @@
+tellraw @s ["[",{"text":"#name ","color":"aqua"},{"text":"#version","color":"green"},{"text":"] Dispensers will place cocoa on Jungle logs."}]

@@ -1,0 +1,11 @@
+{
+  "condition": "minecraft:location_check",
+  "offsetX": 0,
+  "offsetY": 0,
+  "offsetZ": 1,
+  "predicate": {
+    "block": {
+      "tag": "minecraft:jungle_logs"
+    }
+  }
+}
