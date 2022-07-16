@@ -10,8 +10,6 @@ Cocoa beans can now be dispensed next to Jungle Logs! Finally, automated cocoa f
 
 # Contact
 
-:link: Discord -> pizzaspren#3030
-
 :link: [GitHub](https://github.com/pizzaspren)
 
 :link: [PMC](https://www.planetminecraft.com/member/pizzaspren/)
